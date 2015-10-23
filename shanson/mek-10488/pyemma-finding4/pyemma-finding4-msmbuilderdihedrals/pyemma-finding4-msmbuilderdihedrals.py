@@ -119,4 +119,4 @@ plt.title("Dihedral tICA Analysis")
 plt.xlabel("tic1")
 plt.ylabel("tic2")
 
-plt.savefig("pyemma-finding4-msmbuiderdihedrals-mek.png", bbox_inches="tight")
+plt.savefig("pyemma-finding4-msmbuilderdihedrals-mek.png", bbox_inches="tight")
